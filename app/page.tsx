@@ -1,5 +1,5 @@
-import RevitDashboard from "./components/RevitDashboard";
+import AuthWrapper from "./components/AuthWrapper";
 
 export default function Home() {
-  return <RevitDashboard />;
+  return <AuthWrapper />;
 }

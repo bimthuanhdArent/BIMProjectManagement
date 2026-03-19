@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Dashboard sức khỏe dự án Revit",
-  description: "Theo dõi Warnings và dung lượng file dự án Revit",
+  title: "Project Health Dashboard",
+  description: "Track Revit project warnings and file size",
 };
 
 export default function RootLayout({
